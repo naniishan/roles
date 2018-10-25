@@ -1,4 +1,3 @@
 ---
   - include: Ubuntu.yml
-  - include: Amazon.yml
 # tasks file for java/
